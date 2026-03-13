@@ -104,24 +104,31 @@ s.close()
 ## Output
 
 tracert:
+
 ![alt text](tracert.png)
 
 ping:
+
 ![alt text](ping.png)
 
 nslookup:
+
 ![alt text](nslookup.png)
 
 netstat:
+
 ![alt text](netstat.png)
 
 ipconfig:
+
 ![alt text](ipconfig.png)
 
 getmac:
+
 ![alt text](getmac.png)
 
 arp:
+
 ![alt text](arp.png)
 
 ## Result
